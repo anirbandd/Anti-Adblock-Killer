@@ -1,0 +1,2 @@
+@@||indianexpress.com/*/ads_js.js$script
+@@||indiatimes.com/*/ads.cms$script
